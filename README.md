@@ -1,5 +1,5 @@
 Data Science Challenge
-One of the objectives of Data scinetists at  Instamotion is to help understand vehicle information.
+One of the objectives of BI team at  Instamotion is to help understand vehicle information.
 
 The dataset can be found in the repo under test.json and it is described below:
 
