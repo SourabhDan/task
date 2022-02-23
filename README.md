@@ -12,7 +12,7 @@ The challenge has two parts:
   Please use well-labeled charts and tables during the analysis. To get you started, these are some questions that could be interesting:
 
   What is the overall vehilce ratio by make/model combination ?
-  How does overall vehicle history affect the financing optionss?
+  How does overall vehicle history affect the financing options?
 
 
 Please complete the tasks using Python or R and you are free to use any and all third party libraries to help you.
